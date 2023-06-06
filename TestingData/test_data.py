@@ -1,0 +1,5 @@
+url = "https://www.globalsqa.com/"
+# url = "https://www.globalsqa.com/demo-site/sliders/"
+browser = "chrome"
+text_expected = "St. Stephen's Cathedral"
+text_expected1 = "Creative Commons Attribution-ShareAlike 3.0"
